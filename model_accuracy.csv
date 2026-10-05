@@ -1,0 +1,5 @@
+Model,MAPE,RMSE
+Moving average (12m),13.07,43482.79
+Holt-Winters (season only),14.59,46650.32
+Seasonal naive,17.51,57507.93
+Holt-Winters (trend+season),19.4,61991.08
